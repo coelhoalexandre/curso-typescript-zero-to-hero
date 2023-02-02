@@ -23,5 +23,5 @@ console.log(typeof variavelTesteUndefined);
 
 // ==> Diferenças e Similaridades: Null vs Undefined
 
-console.log('Exemplo 01:', null == undefined);
-console.log('Exemplo 02:', null === undefined);
+console.log('Exemplo 01:', null == undefined); // true
+console.log('Exemplo 02:', null === undefined); // false
