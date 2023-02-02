@@ -25,7 +25,11 @@ Para saber mais sobre este projeto, aqui está o link do repositorio original: [
 
 ## Aprendizagens
 
-
+- Aplicar TypeScript em um Projeto;
+- Notação de Tipo;
+- Reforçar Tipos de Dados;
+- Conhecer diferentes Tipos de Dados;
+- Optional, Default e Rest Parameters;
 
 ## Autor deste Repositorio e Estudante do Curso
 
