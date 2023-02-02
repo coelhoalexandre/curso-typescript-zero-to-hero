@@ -1,11 +1,3 @@
-/**
- * arquivo: voidType.ts
- * descrição: arquivo responsável por ensinar conceitos básicos sobre o tipo 'void'
- * data: 27/08/2021
- * author: Glaucia Lemos <Twitter: @glaucia_lemos86>
- * doc referência: https://www.typescriptlang.org/docs/handbook/basic-types.html#void
- */
-
 // ==> Exemplo 01 - funções:
 
 function logError(errorMessage: string): void {
@@ -13,13 +5,13 @@ function logError(errorMessage: string): void {
   // return errorMessage;
 }
 
-logError('Required field - Name!');
+logError('Required field - Name');
 
 // ==> Exemplo 02 - funções:
 
 const logErrorExample2 = (errorMessage: string): void => {
   console.log(errorMessage);
-};
+}
 
 logErrorExample2('Required field - Surname');
 
